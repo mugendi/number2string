@@ -1,0 +1,29 @@
+{
+  "name": "number2string",
+  "version": "0.0.1",
+  "description": "Convert Number to English Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mugendi/number2string.git"
+  },
+  "keywords": [
+    "parse",
+    "parse",
+    "number",
+    "number",
+    "convert",
+    "number",
+    "conversion",
+    "nlp"
+  ],
+  "author": "Anthony Mugendi (ngurumugz@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mugendi/number2string/issues"
+  },
+  "homepage": "https://github.com/mugendi/number2string"
+}
